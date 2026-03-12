@@ -15,7 +15,7 @@ export default function App() {
     };
   };
 
-  console.log("Hello")
+  console.log("Hello world")
 
   return (
     <>
